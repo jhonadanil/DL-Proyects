@@ -34,5 +34,7 @@ Este proyecto fue creado por jhonatan danilchuk como parte de mi aprendizaje con
 Si deseas contactarme:
 
 Email: jhonyprius@gmail.com
+
 GitHub: https://github.com/jhonadanil
+
 LinkedIn: https://www.linkedin.com/in/danilchuk-jhonatan/
