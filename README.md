@@ -12,10 +12,16 @@ Este repositorio reúne proyectos prácticos para explorar técnicas de Deep Lea
 6. **Transformadores**: Implementación de arquitecturas de transformadores para tareas avanzadas de procesamiento de lenguaje natural (NLP).
    
 ## Enfoque del Proyecto
-- **EDA**: Exploración de datos y visualizaciones iniciales.
-- **Preprocesamiento**: Transformaciones necesarias para entrenar los modelos.
-- **Modelado**: Construcción, entrenamiento y evaluación de modelos de Deep Learning.
-- **Optimización**: Búsqueda de hiperparámetros para mejorar el rendimiento.
+
+-**EDA (Exploratory Data Analysis)**: Analizar y visualizar los datos para comprender mejor sus características y patrones.
+
+-**Preprocesamiento**: Limpiar y preparar los datos para el modelo, incluyendo la normalización y la división en conjuntos de entrenamiento, validación y prueba.
+
+-**Construir la arquitectura**: Diseñar la estructura de la red neuronal adecuada para el problema a resolver.
+
+-**Entrenamiento y ajuste de hiperparámetros**: Entrenar el modelo y ajustar los parámetros para optimizar el rendimiento.
+
+-**Evaluación**: Medir y evaluar el rendimiento del modelo utilizando métricas adecuadas.
 
 ## Uso
 1. Clona este repositorio:
