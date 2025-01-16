@@ -13,15 +13,15 @@ Este repositorio reúne proyectos prácticos para explorar técnicas de Deep Lea
    
 ## Enfoque del Proyecto
 
--**EDA (Exploratory Data Analysis)**: Analizar y visualizar los datos para comprender mejor sus características y patrones.
+- **EDA (Exploratory Data Analysis)**: Analizar y visualizar los datos para comprender mejor sus características y patrones.
 
--**Preprocesamiento**: Limpiar y preparar los datos para el modelo, incluyendo la normalización y la división en conjuntos de entrenamiento, validación y prueba.
+- **Preprocesamiento**: Limpiar y preparar los datos para el modelo, incluyendo la normalización y la división en conjuntos de entrenamiento, validación y prueba.
 
--**Construir la arquitectura**: Diseñar la estructura de la red neuronal adecuada para el problema a resolver.
+- **Construir la arquitectura**: Diseñar la estructura de la red neuronal adecuada para el problema a resolver.
 
--**Entrenamiento y ajuste de hiperparámetros**: Entrenar el modelo y ajustar los parámetros para optimizar el rendimiento.
+- **Entrenamiento y ajuste de hiperparámetros**: Entrenar el modelo y ajustar los parámetros para optimizar el rendimiento.
 
--**Evaluación**: Medir y evaluar el rendimiento del modelo utilizando métricas adecuadas.
+- **Evaluación**: Medir y evaluar el rendimiento del modelo utilizando métricas adecuadas.
 
 ## Uso
 1. Clona este repositorio:
