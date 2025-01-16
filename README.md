@@ -17,7 +17,7 @@ Este repositorio reúne proyectos prácticos para explorar técnicas de Deep Lea
 
 - **Preprocesamiento**: Limpiar y preparar los datos para el modelo, incluyendo la normalización y la división en conjuntos de entrenamiento, validación y prueba.
 
-- **Construir la arquitectura**: Diseñar la estructura de la red neuronal adecuada para el problema a resolver.
+- **Definicion de la arquitectura**: Diseñar la estructura de la red neuronal adecuada para el problema a resolver.
 
 - **Entrenamiento y ajuste de hiperparámetros**: Entrenar el modelo y ajustar los parámetros para optimizar el rendimiento.
 
