@@ -34,10 +34,8 @@ Este repositorio reúne proyectos prácticos para explorar técnicas de Deep Lea
    
 3. Navega y abre los notebooks en Jupyter o VSCode:
 
-## Autor
-Este proyecto fue creado por jhonatan danilchuk como parte de mi aprendizaje continuo en Deep Learning. 
 
-Si deseas contactarme:
+Contacto:
 
 Email: jhonyprius@gmail.com
 
